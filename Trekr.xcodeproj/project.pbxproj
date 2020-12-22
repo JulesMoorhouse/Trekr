@@ -16,6 +16,8 @@
 		88AE40152592703D00C503C6 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88AE40142592703D00C503C6 /* Location.swift */; };
 		88AE4019259274A200C503C6 /* Locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88AE4018259274A200C503C6 /* Locations.swift */; };
 		88AE401C25927C9700C503C6 /* WorldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88AE401B25927C9700C503C6 /* WorldView.swift */; };
+		88AE401F2592845000C503C6 /* Tip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88AE401E2592845000C503C6 /* Tip.swift */; };
+		88AE40222592854F00C503C6 /* TipsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88AE40212592854F00C503C6 /* TipsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,8 @@
 		88AE40142592703D00C503C6 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		88AE4018259274A200C503C6 /* Locations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Locations.swift; sourceTree = "<group>"; };
 		88AE401B25927C9700C503C6 /* WorldView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WorldView.swift; sourceTree = "<group>"; };
+		88AE401E2592845000C503C6 /* Tip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip.swift; sourceTree = "<group>"; };
+		88AE40212592854F00C503C6 /* TipsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +76,8 @@
 				88AE3FFF259261C700C503C6 /* TrekrApp.swift */,
 				88AE4018259274A200C503C6 /* Locations.swift */,
 				88AE401B25927C9700C503C6 /* WorldView.swift */,
+				88AE401E2592845000C503C6 /* Tip.swift */,
+				88AE40212592854F00C503C6 /* TipsView.swift */,
 			);
 			path = Trekr;
 			sourceTree = "<group>";
@@ -158,6 +164,8 @@
 				88AE4002259261C700C503C6 /* ContentView.swift in Sources */,
 				88AE40152592703D00C503C6 /* Location.swift in Sources */,
 				88AE401C25927C9700C503C6 /* WorldView.swift in Sources */,
+				88AE401F2592845000C503C6 /* Tip.swift in Sources */,
+				88AE40222592854F00C503C6 /* TipsView.swift in Sources */,
 				88AE4019259274A200C503C6 /* Locations.swift in Sources */,
 				88AE4000259261C700C503C6 /* TrekrApp.swift in Sources */,
 			);
